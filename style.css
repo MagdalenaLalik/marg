@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(131, 204, 214);
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(212, 0, 255);
+}
+
+th:hover {
+    background-color: rgb(128, 89, 151);
+}
+
+tr {
+    background-color: rgb(252, 157, 204);
+}
+
+tr:hover {
+    background-color: rgb(89, 45, 119);
+}
+
+
+#table-2 {
+    margin: 20px 10px;
+}
+
+#table-3 {
+    margin: 30px 15px 30px;
+}
+
+#table-4 {
+    margin: 10px 15px 20px 5px;
+}
+
+#table-5 {
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-left: 15px ;
+}
